@@ -43,7 +43,7 @@ st.title("🤖 T-800 | MODULO DE TRADUCCIÓN VOCAL")
 st.subheader("SISTEMA ACTIVADO - INICIANDO ESCUCHA...")
 
 # Imagen tipo visión cyborg (puedes cambiar 'OIG7.jpg' por una más robótica o roja)
-image = Image.open("OIG7.jpg")
+image = Image.open("dron.jpg")
 st.image(image, width=300)
 
 with st.sidebar:
